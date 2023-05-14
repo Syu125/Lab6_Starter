@@ -1,1 +1,1 @@
-# Lab 6 - Starter
+Partners: Junyi Wu, Sophia Yu
